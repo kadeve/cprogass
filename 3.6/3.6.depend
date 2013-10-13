@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1380045728 source:c:\users\sertac\desktop\c\3.6\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1380036646 source:c:\users\sertac\desktop\c\3.6\abc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
